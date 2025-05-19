@@ -21,8 +21,7 @@ A simple and fun website that displays a new random cat fact every time you clic
 
 ---
 
-## ⚙️ How to Run Locally
+ ## 🔗 Live Demo
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Aditya11ak/cat-fact-pro.git
+👉 [Click here to get random MeowFacts](https://aditya11ak.github.io/cat-fact-pro/)
+
